@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="cultural-bias-aesthetics-scoring/outputs/figures/paper_figures/fig_pipeline.png" width="900" alt="Diagnostic pipeline overview">
+  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_pipeline.png" width="900" alt="Diagnostic pipeline overview">
 </p>
 
 <p align="center">
