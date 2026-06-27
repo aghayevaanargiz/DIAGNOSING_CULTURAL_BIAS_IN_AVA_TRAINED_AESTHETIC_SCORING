@@ -425,7 +425,7 @@ This is the epoch 3 checkpoint, frozen and used for every analysis in the paper.
 ## Paper
 
 ```text
-paper/AICT_2026_CULTURAL_BIAS_IN_AESTHETICS.pdf    # compiled paper
+paper/AICT_2026_CULTURAL_BIAS_IN_AESTHETICS.pdf  
 ```
 ---
 
