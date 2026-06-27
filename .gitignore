@@ -1,1 +1,21 @@
+venv/
+.venv/
+env/
 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.log
+
+.idea/
+.vscode/
+
+data/ava/images/
