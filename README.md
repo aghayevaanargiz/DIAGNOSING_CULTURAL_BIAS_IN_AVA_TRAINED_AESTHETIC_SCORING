@@ -121,9 +121,6 @@ src/
   visualization/        # figure generation
 
 paper/                  # manuscript and references
-docs/
-assets/
-notebooks/
 ```
 
 ---
