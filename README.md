@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Research-F57C00" alt="Status Research">
 </p>
 
+> **Submission status.** This work has been submitted to the 20th IEEE International Conference on Application of Information and Communication Technologies ([AICT2026](https://www.aict.info/)), Baku, 14 to 16 October 2026. The paper is currently under review. The final published version may differ from the manuscript and the results in this repository.
 
 ---
 
