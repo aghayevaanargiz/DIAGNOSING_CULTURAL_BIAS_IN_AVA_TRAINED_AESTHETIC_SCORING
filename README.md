@@ -113,7 +113,7 @@ src/
   analysis/             # inference, distribution shift, Grad CAM
   visualization/        # figure generation
 
-paper/                  # manuscript and references
+paper/                  # preprint version of the paper
 ```
 
 ---
