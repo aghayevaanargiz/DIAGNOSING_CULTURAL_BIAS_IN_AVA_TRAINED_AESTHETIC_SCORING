@@ -426,12 +426,7 @@ This is the epoch 3 checkpoint, frozen and used for every analysis in the paper.
 
 ```text
 paper/manuscript.pdf    # compiled paper
-paper/manuscript.tex    # LaTeX source
-paper/references.bib    # bibliography
 ```
-
-Adjust these file names if yours differ.
-
 ---
 
 ## Limitations
