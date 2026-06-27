@@ -205,7 +205,7 @@ These steps span **three diagnostic axes** (score distribution, prediction confi
 On the held out AVA test set (2,321 images) the frozen checkpoint reaches a Spearman correlation of 0.733 and a Pearson correlation of 0.731 between predicted and ground truth mean scores, with an EMD loss of 0.102 and a mean absolute error of 0.679. These values sit comfortably in the range reported for NIMA style models, which confirms the instrument is competent before it is pointed at anything else.
 
 <p align="center">
-  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_loss_curve.png" width="760" alt="Training and validation EMD loss">
+  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_loss_curve.png" width="500" alt="Training and validation EMD loss">
 </p>
 
 <p align="center">
@@ -227,7 +227,7 @@ All three regions differ from AVA test at very high significance (p below 0.0000
 ### Attention entropy
 
 <p align="center">
-  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_entropy.png" width="850" alt="Grad CAM attention entropy distribution">
+  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_entropy.png" width="550" alt="Grad CAM attention entropy distribution">
 </p>
 
 <p align="center">
@@ -239,7 +239,7 @@ Attention entropy is higher and far more tightly clustered on non Western sets. 
 ### Grad CAM overlays
 
 <p align="center">
-  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_gradcam.png" width="400" alt="Grad CAM attention overlays">
+  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_gradcam.png" width="800" alt="Grad CAM attention overlays">
 </p>
 
 <p align="center">
