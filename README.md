@@ -239,7 +239,7 @@ Attention entropy is higher and far more tightly clustered on non Western sets. 
 ### Grad CAM overlays
 
 <p align="center">
-  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_gradcam.png" width="850" alt="Grad CAM attention overlays">
+  <img src="cultural-bias-aesthetic-scoring/outputs/figures/paper_figures/fig_gradcam.png" width="400" alt="Grad CAM attention overlays">
 </p>
 
 <p align="center">
