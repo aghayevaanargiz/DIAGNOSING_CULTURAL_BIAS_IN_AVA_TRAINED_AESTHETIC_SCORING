@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Paper-IEEE%20format-00629B" alt="IEEE format">
   <img src="https://img.shields.io/badge/License-MIT-2E7D32" alt="MIT License">
   <img src="https://img.shields.io/badge/Status-Research-F57C00" alt="Status Research">
+  <img src="https://img.shields.io/badge/AICT2026-Under%20Review-FBC02D" alt="AICT2026 under review">
 </p>
 
 > **Submission status.** This work has been submitted to the 20th IEEE International Conference on Application of Information and Communication Technologies ([AICT2026](https://www.aict.info/)), Baku, 14 to 16 October 2026. The paper is currently under review. The final published version may differ from the manuscript and the results in this repository.
